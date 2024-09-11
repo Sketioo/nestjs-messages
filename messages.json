@@ -1,5 +1,1 @@
-{
-  "627": { "id": 627, "content": "Hello, world! woy" },
-  "721": { "id": 721, "content": "Hello, world! woy 2" },
-  "775": { "id": 775, "content": "Hello, world! woy 3" }
-}
+{"627":{"id":627,"content":"Hello, world! woy"},"720":{"id":720,"content":"Hello, with Dependency Injection!"},"721":{"id":721,"content":"Hello, world! woy 2"},"775":{"id":775,"content":"Hello, world! woy 3"}}
